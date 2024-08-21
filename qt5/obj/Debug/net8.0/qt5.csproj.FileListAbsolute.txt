@@ -12,3 +12,8 @@ C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositóri
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\obj\Debug\net8.0\qt5.pdb
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\obj\Debug\net8.0\qt5.genruntimeconfig.cache
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\obj\Debug\net8.0\ref\qt5.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\build\qt5.exe
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\build\qt5.deps.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\build\qt5.runtimeconfig.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\build\qt5.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt5\build\qt5.pdb

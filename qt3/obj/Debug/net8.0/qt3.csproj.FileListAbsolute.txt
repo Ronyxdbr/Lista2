@@ -12,3 +12,8 @@ C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositóri
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.pdb
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.genruntimeconfig.cache
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\ref\qt3.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\build\qt3.exe
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\build\qt3.deps.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\build\qt3.runtimeconfig.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\build\qt3.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\build\qt3.pdb

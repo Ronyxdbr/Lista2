@@ -12,3 +12,8 @@ C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositóri
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\obj\Debug\net8.0\qt4.pdb
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\obj\Debug\net8.0\qt4.genruntimeconfig.cache
 C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\obj\Debug\net8.0\ref\qt4.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\build\qt4.exe
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\build\qt4.deps.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\build\qt4.runtimeconfig.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\build\qt4.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt4\build\qt4.pdb

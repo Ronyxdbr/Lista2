@@ -1,0 +1,14 @@
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\build\qt2.exe
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\build\qt2.deps.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\build\qt2.runtimeconfig.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\build\qt2.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\build\qt2.pdb
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\qt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\qt2.AssemblyInfoInputs.cache
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\qt2.AssemblyInfo.cs
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\qt2.csproj.CoreCompileInputs.cache
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\qt2.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\refint\qt2.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\qt2.pdb
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\qt2.genruntimeconfig.cache
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt2\obj\Debug\net8.0\ref\qt2.dll
