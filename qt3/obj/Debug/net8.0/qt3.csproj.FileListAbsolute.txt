@@ -1,0 +1,14 @@
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.AssemblyInfoInputs.cache
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.AssemblyInfo.cs
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.csproj.CoreCompileInputs.cache
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\bin\Debug\net8.0\qt3.exe
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\bin\Debug\net8.0\qt3.deps.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\bin\Debug\net8.0\qt3.runtimeconfig.json
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\bin\Debug\net8.0\qt3.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\bin\Debug\net8.0\qt3.pdb
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\refint\qt3.dll
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.pdb
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\qt3.genruntimeconfig.cache
+C:\Users\MiltonRoneyDeOliveir\OneDrive - Sesi - Ceará CE\Documentos\repositório\lista2\qt3\obj\Debug\net8.0\ref\qt3.dll
